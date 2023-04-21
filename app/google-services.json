@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605556680331",
+    "firebase_url": "https://my-application-96902-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-application-96902",
+    "storage_bucket": "my-application-96902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605556680331:android:f255ddfbf045ebcf7c968e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605556680331-shdh9njlalqkrd07cptq91uu5arntavl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDWX98NbeIiWj7FtQ3-cTyySkMqjX3lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605556680331-shdh9njlalqkrd07cptq91uu5arntavl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
